@@ -14,6 +14,7 @@ Platform logic:
 Rules:
 - first line must create curiosity
 - avoid generic words
+- avoid clichés and repeated AI phrases
 - emotional pull
 - concise and memorable
 - modern language
