@@ -1,0 +1,11 @@
+name: caption_generator
+description: Generate viral social media captions for Instagram and X
+version: 1.0.0
+author: bryn2371
+category: content-generation
+tags:
+  - caption
+  - social-media
+  - viral
+  - instagram
+  - x
