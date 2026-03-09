@@ -10,3 +10,10 @@ Capabilities:
 - generate premium caption
 - suggest hashtags
 - estimate viral strength
+
+Use this skill when user requests:
+- caption generation
+- Instagram caption
+- viral social media text
+- hashtag suggestions
+- short post writing
