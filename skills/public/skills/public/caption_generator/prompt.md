@@ -1,5 +1,11 @@
+Analyze the user input first.
 
-Generate 3 strong social media captions from user input.
+Detect:
+- topic
+- emotional tone
+- platform intent
+
+Then generate 3 strong social media captions.
 
 Platform logic:
 - Instagram = emotional hook + visual pacing
@@ -13,6 +19,10 @@ Rules:
 - modern language
 
 Output:
+
+Topic:
+Tone:
+
 1 Viral caption
 2 Short caption
 3 Premium caption
