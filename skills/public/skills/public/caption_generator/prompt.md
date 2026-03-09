@@ -27,3 +27,4 @@ Tone:
 2 Short caption
 3 Premium caption
 4. Suggested hashtags
+5. Viral strength score
