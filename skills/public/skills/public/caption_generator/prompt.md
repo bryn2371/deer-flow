@@ -26,3 +26,4 @@ Tone:
 1 Viral caption
 2 Short caption
 3 Premium caption
+4. Suggested hashtags
